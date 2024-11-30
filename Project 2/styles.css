@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  align-items: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.heading {
+  font-size: 36px;
+}
+.formname {
+  margin-bottom: 10px;
+  display: flex;
+  margin-left: 420px;
+}
+.lastname {
+  margin-top: -35px;
+  margin-bottom: 30px;
+  margin-left: 250px;
+}
+.email {
+  margin-bottom: 10px;
+  display: flex;
+  margin-left: 420px;
+}
+.address {
+  margin-top: -35px;
+  margin-bottom: 30px;
+  margin-left: 250px;
+}
+.address label {
+  margin-right: 20px;
+}
+.city {
+  margin-bottom: 10px;
+  display: flex;
+  margin-left: 420px;
+}
+.pincode {
+  margin-top: -35px;
+  margin-bottom: 30px;
+  margin-left: 250px;
+}
+.pincode input {
+  height: 40px;
+}
+.submit-btn input {
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+}
